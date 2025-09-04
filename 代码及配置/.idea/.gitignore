@@ -1,0 +1,10 @@
+# 此文件定义了在版本控制中应忽略的文件和目录
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

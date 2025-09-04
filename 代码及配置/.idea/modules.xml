@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 定义项目的XML文件，版本为4 -->
+<project version="4">
+  <!-- 管理项目模块的组件 -->
+  <component name="ProjectModuleManager">
+    <modules>
+      <!-- 定义项目模块的文件路径和URL -->
+      <module fileurl="file://$PROJECT_DIR$/.idea/代码及配置.iml" filepath="$PROJECT_DIR$/.idea/代码及配置.iml" />
+    </modules>
+  </component>
+</project>les>
+  </component>
+</project>

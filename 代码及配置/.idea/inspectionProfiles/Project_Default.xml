@@ -1,0 +1,10 @@
+<!-- 这是一个用于配置检查项目的组件 -->
+<component name="InspectionProjectProfileManager">
+  <!-- 配置文件的版本 -->
+  <profile version="1.0">
+    <!-- 项目默认名称选项 -->
+    <option name="myName" value="Project Default" />
+    <!-- 检查工具的配置，使用Eslint -->
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
